@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46c08c22-3fba-423d-9ed9-b33449470a6e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1267">
+              <caret line="178" column="5" selection-start-line="178" selection-start-column="5" selection-end-line="178" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#initialize#0;class#Main#0" />
+                <element signature="method#welcomeMessage#0;class#Main#0" />
+                <element signature="method#createOrder#0;class#Main#0" />
+                <element signature="method#updateOrder#0;class#Main#0" />
+                <element signature="method#pickingShippingMethod#0;class#Main#0" />
+                <element signature="method#addingProductToBasket#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+      <find>productInBasket</find>
+      <find>totalPrice</find>
+      <find>fac</find>
+      <find>€</find>
+      <find>addingProductToBasket</find>
+      <find>checkStock</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/basketHandling.java" />
+        <option value="$PROJECT_DIR$/src/basketItems.java" />
+        <option value="$PROJECT_DIR$/src/apparelCategory.java" />
+        <option value="$PROJECT_DIR$/src/homeCategory.java" />
+        <option value="$PROJECT_DIR$/src/sportsCategory.java" />
+        <option value="$PROJECT_DIR$/src/basketBall.java" />
+        <option value="$PROJECT_DIR$/src/category.java" />
+        <option value="$PROJECT_DIR$/src/getBasketItems.java" />
+        <option value="$PROJECT_DIR$/src/football.java" />
+        <option value="$PROJECT_DIR$/src/shirt.java" />
+        <option value="$PROJECT_DIR$/src/shoes.java" />
+        <option value="$PROJECT_DIR$/src/basketball.java" />
+        <option value="$PROJECT_DIR$/src/jeans.java" />
+        <option value="$PROJECT_DIR$/src/knives.java" />
+        <option value="$PROJECT_DIR$/src/plates.java" />
+        <option value="$PROJECT_DIR$/src/product.java" />
+        <option value="$PROJECT_DIR$/src/utility/printCatalogue.java" />
+        <option value="$PROJECT_DIR$/src/printCatalogue.java" />
+        <option value="$PROJECT_DIR$/src/getProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/utility/StockCheck.java" />
+        <option value="$PROJECT_DIR$/src/utility/ListToString.java" />
+        <option value="$PROJECT_DIR$/src/Jeans.java" />
+        <option value="$PROJECT_DIR$/src/Plates.java" />
+        <option value="$PROJECT_DIR$/src/Basketball.java" />
+        <option value="$PROJECT_DIR$/src/Shirt.java" />
+        <option value="$PROJECT_DIR$/src/Shoes.java" />
+        <option value="$PROJECT_DIR$/src/Football.java" />
+        <option value="$PROJECT_DIR$/src/Knives.java" />
+        <option value="$PROJECT_DIR$/src/Product.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/utility/ProductsInBasket.java" />
+        <option value="$PROJECT_DIR$/TestSuite/utility/ProductsInBasketTest.java" />
+        <option value="$PROJECT_DIR$/TestSuite/ProductFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/utility/TaxCalculator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-321" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IntershopBasketAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntershopBasketAssessment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntershopBasketAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntershopBasketAssessment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntershopBasketAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntershopBasketAssessment" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntershopBasketAssessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/utility" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35632184" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="utility" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="utility" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="IntershopBasketAssessment" />
+    </configuration>
+    <configuration name="ProductFactoryTest.calculateProductTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntershopBasketAssessment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductFactoryTest" />
+      <option name="METHOD_NAME" value="calculateProductTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductFactoryTest.checkStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntershopBasketAssessment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductFactoryTest" />
+      <option name="METHOD_NAME" value="checkStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductFactoryTest.updateStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntershopBasketAssessment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductFactoryTest" />
+      <option name="METHOD_NAME" value="updateStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ProductsInBasketTest.equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntershopBasketAssessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductsInBasketTest" />
+      <option name="METHOD_NAME" value="equals" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductFactoryTest.checkStock" />
+      <item itemvalue="JUnit.ProductFactoryTest.updateStock" />
+      <item itemvalue="JUnit.ProductFactoryTest.calculateProductTotal" />
+      <item itemvalue="JUnit.ProductsInBasketTest.equals" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ProductsInBasketTest.equals" />
+        <item itemvalue="JUnit.ProductFactoryTest.calculateProductTotal" />
+        <item itemvalue="JUnit.ProductFactoryTest.updateStock" />
+        <item itemvalue="JUnit.ProductFactoryTest.checkStock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c08c22-3fba-423d-9ed9-b33449470a6e" name="Default" comment="" />
+      <created>1597750668301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597750668301</updated>
+      <workItem from="1597750680335" duration="68900000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1598007375280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598007375280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductFactoryTest_checkStock - 2020.08.21 at 01h 25m 45s.xml">
+      <configuration name="ProductFactoryTest.checkStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFactoryTest_checkStock - 2020.08.21 at 01h 26m 36s.xml">
+      <configuration name="ProductFactoryTest.checkStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFactoryTest_checkStock - 2020.08.21 at 01h 28m 06s.xml">
+      <configuration name="ProductFactoryTest.checkStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFactoryTest_updateStock - 2020.08.21 at 01h 30m 29s.xml">
+      <configuration name="ProductFactoryTest.updateStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFactoryTest_updateStock - 2020.08.21 at 01h 32m 14s.xml">
+      <configuration name="ProductFactoryTest.updateStock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductFactoryTest_calculateProductTotal - 2020.08.21 at 01h 32m 25s.xml">
+      <configuration name="ProductFactoryTest.calculateProductTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsInBasketTest_equals - 2020.08.21 at 01h 36m 22s.xml">
+      <configuration name="ProductsInBasketTest.equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsInBasketTest_equals - 2020.08.21 at 01h 37m 58s.xml">
+      <configuration name="ProductsInBasketTest.equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsInBasketTest_equals - 2020.08.21 at 01h 38m 39s.xml">
+      <configuration name="ProductsInBasketTest.equals" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsInBasketTest_equals - 2020.08.21 at 12h 53m 50s.xml">
+      <configuration name="ProductsInBasketTest.equals" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68900000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-321" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32960895" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32849163" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.20255864" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32897604" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3988827" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.20260416" />
+      <window_info id="Learn" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32897604" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32897604" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39978212" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="34" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>productsInBasket.get(productsInBasket.indexOf(productInBasket)).getQuantity()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p.getStock()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>productInBasket.getQuantity()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentProductQuantity</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/categories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basketHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basketItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/apparelCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sportsCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homeCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntershopBasketAssessment.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/printCatalogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestSuite/test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basketball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="64" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Football.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shirt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Knives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuite/ProductsInBasketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestSuite/ProductFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3858#3859#0" expanded="true" />
+            <element signature="e#3925#3926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utility/ListToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utility/StockCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utility/ProductsInBasket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utility/TaxCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1267">
+          <caret line="178" column="5" selection-start-line="178" selection-start-column="5" selection-end-line="178" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initialize#0;class#Main#0" />
+            <element signature="method#welcomeMessage#0;class#Main#0" />
+            <element signature="method#createOrder#0;class#Main#0" />
+            <element signature="method#updateOrder#0;class#Main#0" />
+            <element signature="method#pickingShippingMethod#0;class#Main#0" />
+            <element signature="method#addingProductToBasket#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IntershopBasketAssessment</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.junit.jupiter:junit-jupiter:5.7.0-RC1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
