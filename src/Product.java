@@ -5,11 +5,21 @@ public abstract class Product {
     double price;
     protected int stock;
 
-    abstract String getName();
-    abstract String getDescription();
-    abstract double getPrice();
-    abstract int getStock();
+    String getName() {
+        return name;
+    }
+    String getDescription(){
+        return description;
+    }
+    double getPrice(){
+        return price;
+    }
+    int getStock(){
+        return stock;
+    }
 
-    abstract void setStock(int newStock);
+    void setStock(int newStock){
+        stock = newStock;
+    }
 
 }

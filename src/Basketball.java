@@ -6,29 +6,4 @@ class Basketball extends Product {
         price = 25;
         name = "Basketball";
     }
-
-    @Override
-    double getPrice() {
-        return price;
-    }
-
-    @Override
-    String getDescription() {
-        return description;
-    }
-
-    @Override
-    int getStock() {
-        return stock;
-    }
-
-    @Override
-    String getName() {
-        return name;
-    }
-
-    @Override
-    void setStock(int newStock) {
-        this.stock = newStock;
-    }
 }

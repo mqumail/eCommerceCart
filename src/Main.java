@@ -99,7 +99,7 @@ public class Main {
 
                 // Check if the product is sold by us
                 while (!listOfProducts.contains(updateProductName.toLowerCase())){
-                    System.out.println("This product is not in your cart. Please select an item from your cart to update it.");
+                    System.out.println("This product is not sold by us and also not in your cart. Please select an item from your cart to update it.");
                     System.out.println("Enter the Product name: ");
                     updateProductName = reader.readLine();
                 }
@@ -108,7 +108,7 @@ public class Main {
                 int updateProductQuantity = Integer.parseInt(reader.readLine());
                 // do the magic and update the basket
                 ProductsInBasket updateProduct = new ProductsInBasket();
-                updateProduct.setProduct(updateProductName);
+                updateProduct.setProduct(updateProductName.toLowerCase());
                 updateProduct.setQuantity(updateProductQuantity);
                 if (productsInBasket.contains(updateProduct)) {
                     productsInBasket.set(productsInBasket.indexOf(updateProduct), updateProduct);
@@ -191,7 +191,7 @@ public class Main {
         System.out.println("Enter the quantity: ");
         int quantity = Integer.parseInt(reader.readLine());
 
-        productInBasket.setProduct(productName);
+        productInBasket.setProduct(productName.toLowerCase());
         productInBasket.setQuantity(quantity);
         product = productFactory.getProduct(productInBasket.getProduct());
         if (productFactory.checkStock(product, productInBasket.getQuantity()) == StockCheck.OUT_OF_STOCK.ordinal()){
