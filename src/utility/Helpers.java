@@ -15,7 +15,4 @@ public class Helpers {
         }
         return buffer.toString();
     }
-
-
-
 }
