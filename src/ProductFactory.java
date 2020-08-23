@@ -4,13 +4,13 @@ import java.util.*;
 
 class ProductFactory {
 
-    private Basketball basketball;
-    private Football football;
-    private Jeans jeans;
-    private Knives knives;
-    private Plates plates;
-    private Shirt shirt;
-    private Shoes shoes;
+    private static Basketball basketball;
+    private static Football football;
+    private static Jeans jeans;
+    private static Knives knives;
+    private static Plates plates;
+    private static Shirt shirt;
+    private static Shoes shoes;
 
 
     ProductFactory(){
@@ -52,7 +52,7 @@ class ProductFactory {
         return null;
     }
 
-    void printProductCatalogue(){
+    static void printProductCatalogue(){
         System.out.println("******************************************Catalogue******************************************");
         System.out.printf("Name: %s, Description: %s, Price: %s, # In Stock: %s%n", basketball.getName(), basketball.getDescription(), String.valueOf(basketball.getPrice()), String.valueOf(basketball.getStock()));
         System.out.printf("Name: %s, Description: %s, Price: %s, # In Stock: %s%n", football.getName(), football.getDescription(), String.valueOf(football.getPrice()), String.valueOf(football.getStock()));
